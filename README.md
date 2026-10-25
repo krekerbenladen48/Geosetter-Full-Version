@@ -240,4 +240,4 @@ This repository serves as the official landing page for GeoSetter. The software 
 **Get the most recent version of GeoSetter today!**
 
 ---
-**Last updated:** 2026-10-25 13:04:57 UTC
+**Last updated:** 2026-10-25 17:20:23 UTC
